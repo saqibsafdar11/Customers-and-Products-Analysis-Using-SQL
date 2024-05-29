@@ -1,15 +1,28 @@
 # Customers and Products Analysis Using SQL
- 
-Customers: customer data
-Employees: all employee information
-Offices: sales office information
-Orders: customers' sales orders
-OrderDetails: sales order line for each sales order
-Payments: customers' payment records
-Products: a list of scale model cars
-ProductLines: a list of product line categories 
 
-![EDR](path/to/EDR.png)
+The goal of this project is to analyze data from a sales records database for scale model cars and extract information for decision-making. We can extract key performance indicators (KPIs) to make smarter decisions. This saves time, resources, and money.
+ 
+Using DB Browser (SQLite), I conducted the analysis to answer the followig three questions:
+
+- Question 1: Which products should we order more of or less of?
+- Question 2: How should we tailor marketing and communication strategies to customer behaviors?
+- Question 3: How much can we spend on acquiring new customers?
+
+Thew data base has the following tables:
+
+- Customers: customer data
+- Employees: all employee information
+- Offices: sales office information
+- Orders: customers' sales orders
+- OrderDetails: sales order line for each sales order
+- Payments: customers' payment records
+- Products: a list of scale model cars
+- ProductLines: a list of product line categories 
+
+The ER diagram for the database can be found here [here](ER.png)
+
+The SQL can be found [here](project.sql).
+
 
 
 ## Questions
