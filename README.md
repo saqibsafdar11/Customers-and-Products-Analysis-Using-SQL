@@ -9,7 +9,8 @@ Payments: customers' payment records
 Products: a list of scale model cars
 ProductLines: a list of product line categories 
 
-![EDR](path/to/edr.png)
+![EDR](path/to/EDR.png)
+
 
 ## Questions
 1. Which product should we order more of or less of?
@@ -19,17 +20,18 @@ ProductLines: a list of product line categories
 
 High performaning and frequently sold products, with low stock should be prioritised for restocking
 
-productCode               productName  prod_perf
-0    S12_1099         1968 Ford Mustang  161531.48
-1    S18_2795    1928 Mercedes-Benz SSK  132275.98
-2    S32_1374          1997 BMW F650 ST   89364.89
-3   S700_3167        F/A 18 Hornet 1/72   76618.40
-4    S50_4713        2002 Yamaha YZR M1   73670.64
-5   S700_1938             The Mayflower   69531.61
-6    S24_2000  1960 BSA Gold Star DBD34   67193.49
-7    S32_4289  1928 Ford Phaeton Deluxe   60493.33
-8    S72_3212                Pont Yacht   47550.40
-9    S18_2248        1911 Ford Town Car   45306.77
+| productCode | productName             | prod_perf  |
+|-------------|-------------------------|------------|
+| S12_1099    | 1968 Ford Mustang       | 161531.48  |
+| S18_2795    | 1928 Mercedes-Benz SSK  | 132275.98  |
+| S32_1374    | 1997 BMW F650 ST        | 89364.89   |
+| S700_3167   | F/A 18 Hornet 1/72      | 76618.40   |
+| S50_4713    | 2002 Yamaha YZR M1      | 73670.64   |
+| S700_1938   | The Mayflower           | 69531.61   |
+| S24_2000    | 1960 BSA Gold Star DBD34| 67193.49   |
+| S32_4289    | 1928 Ford Phaeton Deluxe| 60493.33   |
+| S72_3212    | Pont Yacht              | 47550.40   |
+| S18_2248    | 1911 Ford Town Car      | 45306.77   |
 
 Question 2: How should we match marketing and communication strategies to customer behaviors?
 
@@ -87,7 +89,7 @@ By tailoring marketing and communication strategies to match the behaviors and p
 Question 3: How much can we spend on acquiring new customers?
 
 ltv = total lifetime value
-39039.594388
+ = 39039.594388
 
 LTV tells us how much profit an average customer generates during their lifetime with our store. We can use it to predict our future profit. So, if we get ten new customers next month, we'll earn 390,395 dollars, and we can decide based on this prediction how much we can spend on acquiring new customers.
 
@@ -103,7 +105,7 @@ Given the Lifetime Value (LTV) of a customer is $39,039.59, we can calculate how
 
 #### Steps to Determine CAC:
 
-1. **Set a Desired Profit Margin**: Decide on the percentage of LTV you want to keep as profit. For instance, if you want to retain 50% of LTV as profit, then the maximum allowable CAC would be 50% of LTV.
+1. **Set a Desired Profit Margin**: Decide on the percentage of LTV you want to keep as profit. For instance, if we want to retain 50% of LTV as profit, then the maximum allowable CAC would be 50% of LTV.
 2. **Calculate Maximum Allowable CAC**:
    - Maximum CAC = LTV * (1 - Desired Profit Margin)
 3. **Evaluate Marketing Budget**: Ensure the calculated CAC fits within the overall marketing budget.
@@ -118,7 +120,7 @@ Given the Lifetime Value (LTV) of a customer is $39,039.59, we can calculate how
    - Maximum CAC = $39,039.59 * 0.60
    - Maximum CAC = $23,423.75
 
-Thus, based on this example, you can spend up to $23,423.75 on acquiring each new customer to maintain a desired profit margin of 40%.
+Thus, based on this example, we can spend up to $23,423.75 on acquiring each new customer to maintain a desired profit margin of 40%.
 
 ### Using LTV for Future Predictions
 
@@ -139,9 +141,9 @@ Based on the above calculation, acquiring 10 new customers would generate an est
 
 ### Strategic Recommendations
 
-1. **Set Clear CAC Targets**: Based on your desired profit margins, set clear targets for maximum CAC.
-2. **Optimize Marketing Spend**: Allocate your marketing budget efficiently to ensure the CAC remains within the target range.
-3. **Monitor and Adjust**: Continuously monitor the actual CAC and adjust your marketing strategies as needed to ensure profitability.
+1. **Set Clear CAC Targets**: Based on the desired profit margins, set clear targets for maximum CAC.
+2. **Optimize Marketing Spend**: Allocate the marketing budget efficiently to ensure the CAC remains within the target range.
+3. **Monitor and Adjust**: Continuously monitor the actual CAC and adjust marketing strategies as needed to ensure profitability.
 4. **Invest in High-ROI Channels**: Focus on marketing channels and strategies that provide the highest return on investment (ROI) and the lowest CAC.
 
-By carefully managing the balance between CAC and LTV, you can make informed decisions on customer acquisition spending, ensuring sustainable growth and profitability.
+ 
