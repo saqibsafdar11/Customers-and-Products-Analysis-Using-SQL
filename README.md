@@ -1,6 +1,6 @@
 # Customers and Products Analysis Using SQL
 
-The goal of this project is to analyze data from a sales records database for scale model cars and extract information for decision-making. We can extract key performance indicators (KPIs) to make smarter decisions. This saves time, resources, and money.
+The goal of this project is to analyze data from a sales records database for scale model cars and extract information for decision-making. We can extract key performance indicators (KPIs) to make smarter decisions to save time, resources, and money.
  
 Using DB Browser (SQLite), I conducted the analysis to answer the followig three questions:
 
