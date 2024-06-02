@@ -1,8 +1,7 @@
 # Customers and Products Analysis Using SQL
 
 ![](Customers-and-Products-Analysis-Using-SQL
-/ER.png
-)
+/ER.png)
 
 The goal of this project is to analyze data from a sales records database for scale model cars and extract information for decision-making. We can extract key performance indicators (KPIs) to make smarter decisions to save time, resources, and money.
  
