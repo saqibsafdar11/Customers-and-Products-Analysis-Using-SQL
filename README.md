@@ -1,6 +1,6 @@
 # Customers and Products Analysis Using SQL
 
--- ![](https://github.com/saqibsafdar11/Customers-and-Products-Analysis-Using-SQL/blob/main/ER.png?raw=true)
+<!-- ![](https://github.com/saqibsafdar11/Customers-and-Products-Analysis-Using-SQL/blob/main/ER.png?raw=true) -->
 
 The goal of this project is to analyze data from a sales records database for scale model cars and extract information for decision-making. We can extract key performance indicators (KPIs) to make smarter decisions to save time, resources, and money.
  
